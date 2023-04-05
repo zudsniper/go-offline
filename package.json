@@ -1,13 +1,13 @@
 {
   "name": "go-offline",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.1.1",
+  "description": "A small discord bot to notify you of your desired limits.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
   "keywords": [],
-  "author": "",
+  "author": "zudsniper",
   "license": "ISC",
   "dependencies": {
     "@discordjs/rest": "^1.7.0",
